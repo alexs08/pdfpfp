@@ -48,6 +48,10 @@ body {
   padding: 0 1em;
 }
 
+#sgFooter a {
+  color: white;
+}
+
 /* Syntax Highlighting */
 
 .highlight .hll { background-color: #ffffcc }
