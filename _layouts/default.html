@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - PDFPFP</title>
+    <link rel="stylesheet" href="/css/site.css">
+  </head>
+  <body>
+    <div id="sgContainer">
+      <header id="sgHeader" role="heading">
+        {% include header.html %}
+      </header>
+      <main id="sgMain" role="main">
+        <div id="content">
+          {{ page.content }}
+        </div>
+      </main>
+      <footer id="sgFooter" role="contentinfo">
+        {% include footer.html %}
+      </footer>
+    </div>
+    <script src="/js/site.js"></script>
+  </body>
+</html>
