@@ -23,6 +23,12 @@ body {
   color: white;
 }
 
+#sgNav {
+  background: black;
+  color: white;
+  text-decoration: none;
+}
+
 #sgMain {
   margin: 0 1em;
 }
