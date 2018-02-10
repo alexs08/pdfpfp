@@ -28,7 +28,7 @@ body {
   margin: 0.5em;
 }
 
-#sgNav a, #sgNav span {
+#sgNav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
