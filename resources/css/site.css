@@ -41,7 +41,7 @@ body {
 
 .navright {
   display: inline;
-  text-align: right;
+  float: right;
 }
 
 #sgMain {
