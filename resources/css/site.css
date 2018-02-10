@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+#sgContainer {
+  display: grid;
 }
