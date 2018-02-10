@@ -40,6 +40,7 @@ body {
 }
 
 .navright {
+  display: inline;
   text-align: right;
 }
 
