@@ -25,13 +25,14 @@ body {
 
 #sgNav {
   background: black;
+  padding: 0.5em;
 }
 
 #sgNav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  margin: 0.5em;
+  margin: 0 0.5em;
 }
 
 #sgMain {
