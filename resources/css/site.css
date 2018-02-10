@@ -8,6 +8,11 @@ body {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
+#siteHeading {
+  text-align: center;
+  font-size: 5em;
+}
+
 #sgContainer {
   display: grid;
 }
