@@ -22,3 +22,7 @@ body {
   background: black;
   color: white;
 }
+
+#sgMain {
+  margin: 1em;
+}
