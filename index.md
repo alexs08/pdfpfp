@@ -124,7 +124,7 @@ strikethrough
 
 * source
 
-```
+```markdown
 this is ~~good~~ bad
 ```
 
@@ -138,7 +138,7 @@ Task Lists
 
 * source
 
-```
+```markdown
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
@@ -159,7 +159,7 @@ superscript
 
 * source
 
-```
+```markdown
 this is the 2^(nd) time
 ```
 
@@ -173,7 +173,7 @@ underline
 ---------
 * source
 
-```
+```markdown
 This is _underlined_ but this is still *italic*
 ```
 
@@ -187,7 +187,7 @@ highlight
 
 * source
 
-```
+```markdown
 This is ==highlighted==
 ```
 
