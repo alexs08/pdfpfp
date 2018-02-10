@@ -28,10 +28,11 @@ body {
   margin: 0.5em;
 }
 
-#sgNav, #sgNav a {
+#sgNav a, #sgNav span {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  padding-right: 0.5em;
 }
 
 #sgMain {
