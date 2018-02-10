@@ -7,18 +7,25 @@
   </head>
   <body>
     <div id="sgContainer">
-      <header id="sgHeader" role="heading">
+      <header id="sgHeader" class="sgItem" role="heading">
         {% include header.html %}
       </header>
-      <main id="sgMain" role="main">
+      
+      <nav id="sgNav" class="sgItem" role="navigation">
+        {% include nav.html %}
+      </nav>
+      
+      <main id="sgMain" class="sgItem" role="main">
         <div id="content">
           {{ page.content }}
         </div>
       </main>
-      <footer id="sgFooter" role="contentinfo">
+      
+      <footer id="sgFooter" class="sgItem" role="contentinfo">
         {% include footer.html %}
       </footer>
     </div>
+    
     <script src="{{ site.baseurl }}/resources/js/site.js"></script>
   </body>
 </html>
