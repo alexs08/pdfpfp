@@ -25,6 +25,9 @@ body {
 
 #sgNav {
   background: black;
+}
+
+#sgNav, #sgNav a {
   color: white;
   text-decoration: none;
 }
