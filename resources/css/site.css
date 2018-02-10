@@ -39,6 +39,10 @@ body {
   margin: 0 0.5em;
 }
 
+.navleft {
+  text-align: left;
+}
+
 #sgMain {
   margin: 0 1em;
 }
