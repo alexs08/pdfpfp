@@ -16,3 +16,8 @@ body {
 #sgContainer {
   display: grid;
 }
+
+#sgHeader {
+  background: black;
+  color: white;
+}
